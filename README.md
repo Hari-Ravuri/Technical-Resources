@@ -224,3 +224,77 @@ Link → https://lnkd.in/dqGFQppV
 
 Link → https://lnkd.in/dzKWh4ju
 
+
+17 famous GitHub repos to help you pass software engineering job interviews:
+
+These resources cover everything you need to ace technical rounds and beyond.
+
+1. System Design Resources
+Master scalable architectures—essential for senior-level interviews.
+👉 https://lnkd.in/e7SUQ3ei
+
+2. Developer Roadmaps
+Step-by-step guides for mastering frontend, backend, and DevOps.
+👉 https://lnkd.in/e9MuB_Yg
+
+3. Tech Interview Handbook
+All-in-one guide for coding, behavioral, and system design interviews.
+👉 https://lnkd.in/e7EjsJNF
+
+4. Engineering Leadership Resources
+Grow into leadership roles with these management and scaling insights.
+👉 https://lnkd.in/ePCzV3zF
+
+5. Public APIs Collection
+Supercharge your projects with free APIs for data, ML, and more.
+👉 https://lnkd.in/epWSyzqs
+
+6. Path to Senior Engineer
+Navigate your journey from mid-level to senior engineer.
+👉 https://lnkd.in/exkJCxVi
+
+7. Coding Interview University
+Roadmap to master algorithms, DSA, and problem-solving.
+👉 https://lnkd.in/evJSNCPE
+
+8. FreeCodeCamp
+Free tutorials and exercises to build real-world coding skills.
+👉 https://lnkd.in/e_4pA8xV
+
+9. Free Programming Books
+A goldmine of free eBooks on programming and software development.
+👉 ttps://lnkd.in/eXAzAJ3M
+
+10. JavaScript Algorithm Implementations
+Ace coding rounds with a solid grasp of JavaScript algorithms.
+👉 https://lnkd.in/g9V7d-Ya
+
+11. The Algorithms
+Algorithms in various languages with clean implementations.
+👉 https://lnkd.in/dyW4Z5R6
+
+12. Cracking the Coding Interview
+Your go-to guide for tackling the toughest coding interviews.
+👉 https://lnkd.in/dMiRPrb7
+
+13. Tech Interview Handbook
+Covers coding, behavioral, and system design rounds.
+👉 https://lnkd.in/gU6kk5eN
+
+14. System Design Primer
+Master system design—a must for scaling and architecture questions.
+👉 https://lnkd.in/g6yMEsGv 
+
+15. Front End Interview Handbook
+Focused preparation for frontend-specific interviews.
+👉 https://lnkd.in/gpZpC_ZX
+
+16. Python Algorithm Implementations
+Perfect for Python enthusiasts tackling algorithm-heavy interviews.
+👉 https://lnkd.in/g7hv9ShZ
+
+17. Awesome Interview Questions
+A curated list of commonly asked questions across domains.
+👉 https://lnkd.in/gY-AYpQk
+
+
