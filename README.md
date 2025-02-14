@@ -67,29 +67,7 @@ Want to improve your software development skills? Learning Low-Level Design (LLD
 - Load balancing: https://lnkd.in/dkeYMX74
 - Lazy loading: https://lnkd.in/dvcdY_RX
 
-## 3. My Favorite 10 Books for Software Developers
-
-### 3.1 General Advice
-1. The Pragmatic Programmer by Andrew Hunt and David Thomas
-2. Code Complete by Steve McConnell
-
-### 3.2 Coding
-1. Clean Code by Robert C. Martin
-2. Refactoring by Martin Fowler
-
-### 3.3 Software Architecture
-1. Designing Data-Intensive Applications by Martin Kleppmann
-2. System Design Interview (our own book :))
-
-### 3.4 Design Patterns
-1. Design Patterns by Eric Gamma and Others
-2. Domain-Driven Design by Eric Evans
-
-### 3.5 Data Structures and Algorithms
-1. Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein
-2. Cracking the Coding Interview by Gayle Laakmann McDowell
-
-## 4. System Design
+## 3. System Design
 
 The main reason people struggle with System Design interviews isn’t because they haven’t read enough case studies or designed enough systems. It’s because they haven’t built a strong understanding of the basics.
 
@@ -97,7 +75,7 @@ It’s easy to get excited about advanced topics like designing distributed data
 
 Instead, focus on getting the fundamentals right. These are the building blocks that every system is built on, and they’ll help you confidently handle any design problem during interviews.
 
-### 4.1 System Design Key Concepts
+### 3.1 System Design Key Concepts
 1. Scalability: https://lnkd.in/gpge_z76
 2. Latency vs Throughput: https://lnkd.in/g_amhAtN
 3. CAP: https://lnkd.in/g3hmVamx
@@ -110,7 +88,7 @@ Instead, focus on getting the fundamentals right. These are the building blocks 
 10. Batch Processing vs Stream Processing: https://lnkd.in/g4_MzM4s
 11. Fault Tolerance: https://lnkd.in/dVJ6n3wA
 
-### 4.2 System Design Building Blocks
+### 3.2 System Design Building Blocks
 1. Database: https://lnkd.in/gti8gjpz
 2. Horizontal vs Vertical Scaling: https://lnkd.in/gAH2e9du
 3. Caching: https://lnkd.in/gC9piQbJ
@@ -127,20 +105,20 @@ Instead, focus on getting the fundamentals right. These are the building blocks 
 14. API Gateway: https://lnkd.in/gnsJGJaM
 15. Message Queues: https://lnkd.in/gTzY6uk8
 
-### 4.3 System Design Architectural Patterns
+### 3.3 System Design Architectural Patterns
 1. Event-Driven Architecture: https://lnkd.in/dp8CPvey
 2. Client-Server Architecture: https://lnkd.in/dAARQYzq
 3. Serverless Architecture: https://lnkd.in/gQNAXKkb
 4. Microservices Architecture: https://lnkd.in/gFXUrz_T
 
-### 4.4 Machine Coding Round and Low Level Design Problems
+### 3.4 Machine Coding Round and Low Level Design Problems
 1. Design Parking Lot: https://lnkd.in/dQaAuFd2
 2. Design Splitwise: https://lnkd.in/dF5fBnex
 3. Design Chess Validator: https://lnkd.in/dfAQHvN4
 4. Design Distributed Queue | Kafka: https://lnkd.in/dQ6_B4_M
 5. Design Tic-Tac-Toe: https://lnkd.in/dFDApUBt
 
-### 4.5 System Design and Architecture (HLD)
+### 3.5 System Design and Architecture (HLD)
 1. Design Unique ID Generator Service
 2. Design bit.ly
 3. Design Whatsapp
@@ -148,53 +126,9 @@ Instead, focus on getting the fundamentals right. These are the building blocks 
 5. Design Search Autocomplete
 6. Design Zomato Search
 
-## 5. Additional Resources
+## 4. Additional Resources
 
-### 5.1 Scalability
-- Ensures systems can handle increased load and grow efficiently.
-  Link → https://lnkd.in/dD-GZpVq
-
-### 5.2 Latency vs Throughput
-- Balances speed and capacity in system performance.
-  Link → https://lnkd.in/dscK9g3E
-
-### 5.3 CAP Theorem
-- Explains the trade-offs between consistency, availability, and partition tolerance in distributed systems.
-  Link → https://lnkd.in/dFpgDSnY
-
-### 5.4 ACID Transactions
-- Guarantees reliable database processing through atomicity, consistency, isolation, and durability.
-  Link → https://lnkd.in/dkkmMu_D
-
-### 5.5 Rate Limiting
-- Controls the amount of incoming and outgoing traffic to prevent overload and abuse.
-  Link → https://lnkd.in/dY9NqRG9
-
-### 5.6 API Design
-- Ensures APIs are user-friendly, efficient, and maintainable.
-  Link → https://lnkd.in/dTgxGa5i
-
-### 5.7 Strong vs Eventual Consistency
-- Balances the need for immediate data consistency versus eventual data accuracy in distributed systems.
-  Link → https://lnkd.in/dQDwa7TQ
-
-### 5.8 Distributed Tracing
-- Helps monitor and debug complex, distributed systems by tracking requests across multiple services.
-  Link → https://lnkd.in/dA-3swq2
-
-### 5.9 Synchronous vs Asynchronous Communications
-- Determines how systems interact, either waiting for responses (synchronous) or continuing independently (asynchronous).
-  Link → https://lnkd.in/dx2nFDgR
-
-### 5.10 Batch Processing vs Stream Processing
-- Differentiates between processing large volumes of data at once (batch) and processing data in real-time (stream).
-  Link → https://lnkd.in/dqGFQppV
-
-### 5.11 Fault Tolerance
-- Ensures systems remain operational despite failures or errors.
-  Link → https://lnkd.in/dzKWh4ju
-
-## 6. GitHub Repositories
+### 4.1 GitHub Repositories
 
 17 famous GitHub repos to help you pass software engineering job interviews:
 
@@ -218,7 +152,7 @@ These resources cover everything you need to ace technical rounds and beyond.
 16. Python Algorithm Implementations: https://lnkd.in/g7hv9ShZ
 17. Awesome Interview Questions: https://lnkd.in/gY-AYpQk
 
-## 7. Blogs to Learn System Design Concepts
+### 4.2 Blogs to Learn System Design Concepts
 
 30 Blogs to Learn 30 System Design Concepts:
 
@@ -253,27 +187,56 @@ These resources cover everything you need to ace technical rounds and beyond.
 29. Proxy vs Reverse Proxy: https://lnkd.in/gMTtidBq
 30. Batch vs Stream Processing: https://lnkd.in/gKtj_qWh
 
-16 resources I plan to use to become 10x better at software architecture this year
+### 4.3 Online Courses
 
-1. Evolutionary architecture by example - https://lnkd.in/dsqv5Q2u
-2. Modular monolith application with DDD - https://lnkd.in/dftp8iM6
-3. .NET 8 starter kit with multitenancy support - https://lnkd.in/d3YvD5eZ
-4. eCommerce microservice .NET application - https://lnkd.in/d_XNwxvP
-5. Vertical slice architecture example - https://lnkd.in/dxbBMM5a
-6. Clean architecture template for .NET apps - https://lnkd.in/d8KkMJrx
-7. Hexagonal application example - https://lnkd.in/dcfctsyJ
+Enhance your skills with these recommended online courses:
 
-Read these books:
+1. Algorithms Specialization by Stanford University: https://www.coursera.org/specializations/algorithms
+2. Data Structures and Algorithms by UC San Diego & National Research University Higher School of Economics: https://www.coursera.org/specializations/data-structures-algorithms
+3. System Design Course by Educative: https://www.educative.io/courses/grokking-the-system-design-interview
+4. Software Design and Architecture by University of Alberta: https://www.coursera.org/specializations/software-design-architecture
+5. Concurrency in Go by Pluralsight: https://www.pluralsight.com/courses/go-concurrency
+6. Designing Data-Intensive Applications by O'Reilly: https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+7. Microservices with Spring Boot and Spring Cloud by Udemy: https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/
+8. Advanced System Design by InterviewBit: https://www.interviewbit.com/courses/advanced-system-design/
 
-8. Software Architecture for Developers
-9. Head First Software Architecture
-10. Fundamentals of Software Architecture: An Engineering Approach
-11. Software Architecture: The Hard Parts
-12. System Design Interview – An Insider's Guide
-13. System Design Interview – An Insider's Guide: Volume 2
-14. Designing Data-Intensive Applications
+### 4.4 Books
+
+Read these books to deepen your understanding:
+
+1. Software Architecture for Developers
+2. Head First Software Architecture
+3. Fundamentals of Software Architecture: An Engineering Approach
+4. Software Architecture: The Hard Parts
+5. System Design Interview – An Insider's Guide
+6. System Design Interview – An Insider's Guide: Volume 2
+7. Designing Data-Intensive Applications
+
+### 4.5 Practice
 
 Practice using software architecture katas:
 
-15. Software Architecture katas - https://lnkd.in/dU5SBHRn
-16. KataLog - https://lnkd.in/dU5SBHRn
+1. Software Architecture katas - https://lnkd.in/dU5SBHRn
+2. KataLog - https://lnkd.in/dU5SBHRn
+
+## 5. My Favorite 10 Books for Software Developers
+
+### 5.1 General Advice
+1. The Pragmatic Programmer by Andrew Hunt and David Thomas
+2. Code Complete by Steve McConnell
+
+### 5.2 Coding
+1. Clean Code by Robert C. Martin
+2. Refactoring by Martin Fowler
+
+### 5.3 Software Architecture
+1. Designing Data-Intensive Applications by Martin Kleppmann
+2. System Design Interview (our own book :))
+
+### 5.4 Design Patterns
+1. Design Patterns by Eric Gamma and Others
+2. Domain-Driven Design by Eric Evans
+
+### 5.5 Data Structures and Algorithms
+1. Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein
+2. Cracking the Coding Interview by Gayle Laakmann McDowell
