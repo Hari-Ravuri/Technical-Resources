@@ -253,3 +253,27 @@ These resources cover everything you need to ace technical rounds and beyond.
 29. Proxy vs Reverse Proxy: https://lnkd.in/gMTtidBq
 30. Batch vs Stream Processing: https://lnkd.in/gKtj_qWh
 
+16 resources I plan to use to become 10x better at software architecture this year
+
+1. Evolutionary architecture by example - https://lnkd.in/dsqv5Q2u
+2. Modular monolith application with DDD - https://lnkd.in/dftp8iM6
+3. .NET 8 starter kit with multitenancy support - https://lnkd.in/d3YvD5eZ
+4. eCommerce microservice .NET application - https://lnkd.in/d_XNwxvP
+5. Vertical slice architecture example - https://lnkd.in/dxbBMM5a
+6. Clean architecture template for .NET apps - https://lnkd.in/d8KkMJrx
+7. Hexagonal application example - https://lnkd.in/dcfctsyJ
+
+Read these books:
+
+8. Software Architecture for Developers
+9. Head First Software Architecture
+10. Fundamentals of Software Architecture: An Engineering Approach
+11. Software Architecture: The Hard Parts
+12. System Design Interview – An Insider's Guide
+13. System Design Interview – An Insider's Guide: Volume 2
+14. Designing Data-Intensive Applications
+
+Practice using software architecture katas:
+
+15. Software Architecture katas - https://lnkd.in/dU5SBHRn
+16. KataLog - https://lnkd.in/dU5SBHRn
